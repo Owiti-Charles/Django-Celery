@@ -1,7 +1,7 @@
 amqp==2.6.0
 billiard==3.6.3.0
 celery==4.4.5
-Django==2.2
+Django==2.2.13
 future==0.18.2
 kombu==4.6.10
 pytz==2020.1
